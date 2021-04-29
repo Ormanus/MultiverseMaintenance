@@ -1234,7 +1234,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: '16-10-2020 Created by: Weeenaaa [Art, Ormanus [Developer], Cepukka [Audio]'
+  m_Text: '16-10-2020 Created by: Weeenaaa [Art], Ormanus [Developer], Cepukka [Audio]'
 --- !u!222 &725136641
 CanvasRenderer:
   m_ObjectHideFlags: 0
